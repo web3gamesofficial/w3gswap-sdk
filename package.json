@@ -1,5 +1,5 @@
 {
-  "name": "w3gswap-sdk",
+  "name": "@w3gswap/sdk",
   "license": "MIT",
   "version": "0.1.0",
   "description": "",
@@ -8,6 +8,7 @@
   "files": [
     "dist"
   ],
+  "homepage": "https://w3gswap.com/",
   "repository": "https://github.com/web3gamesofficial/w3gswap-sdk",
   "keywords": [
     "w3gswap"
@@ -24,6 +25,7 @@
     "@ethersproject/address": "^5.0.0",
     "@ethersproject/solidity": "^5.0.0",
     "@uniswap/sdk-core": "^3.0.0-alpha.3",
+    "@w3gswap/contracts": "^0.1.2",
     "tiny-invariant": "^1.1.0",
     "tiny-warning": "^1.0.3"
   },

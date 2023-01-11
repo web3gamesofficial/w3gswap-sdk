@@ -1,6 +1,6 @@
 import { INIT_CODE_HASH } from './constants'
 
-import { bytecode } from './abis/UniswapV2Pair.json'
+import { bytecode } from '@w3gswap/contracts/build/UniswapV2Pair.json'
 import { keccak256 } from '@ethersproject/solidity'
 
 // this _could_ go in constants, except that it would cost every consumer of the sdk the CPU to compute the hash
