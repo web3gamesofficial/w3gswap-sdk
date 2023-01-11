@@ -1,7 +1,7 @@
 {
   "name": "@w3gswap/sdk",
   "license": "MIT",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -13,7 +13,7 @@
   "keywords": [
     "w3gswap"
   ],
-  "module": "dist/w3gswap-sdk.esm.js",
+  "module": "dist/sdk.esm.js",
   "scripts": {
     "lint": "tsdx lint src",
     "build": "tsdx build",
